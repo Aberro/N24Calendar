@@ -1,16 +1,146 @@
-<UserControl xmlns="https://github.com/avaloniaui"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-             xmlns:vm="clr-namespace:N24Calendar.ViewModels"
-             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
-             x:Class="N24Calendar.Views.MainView"
-             x:DataType="vm:MainViewModel">
-  <Design.DataContext>
-    <!-- This only sets the DataContext for the previewer in an IDE,
-         to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
-    <vm:MainViewModel />
-  </Design.DataContext>
-
-  <TextBlock Text="{Binding Greeting}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+<UserControl
+	x:Class="N24Calendar.Views.MainView"
+	xmlns="https://github.com/avaloniaui"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:vm="clr-namespace:N24Calendar.ViewModels"
+	d:DesignHeight="1200"
+	d:DesignWidth="1024"
+	x:DataType="vm:MainViewModel"
+	mc:Ignorable="d">
+	<Design.DataContext>
+		<vm:MainViewModel />
+	</Design.DataContext>
+	<UserControl.Styles>
+		<Style Selector="TextBlock">
+			<Setter Property="FontSize" Value="18" />
+		</Style>
+	</UserControl.Styles>
+	<ScrollViewer>
+		<StackPanel Margin="20">
+			<StackPanel Margin="20">
+				<TextBlock Text="Circadian cycle:" />
+				<Border
+					BorderBrush="{StaticResource MaterialPrimaryLightBrush}"
+					BorderThickness="2"
+					CornerRadius="5">
+					<StackPanel Orientation="Horizontal">
+						<StackPanel
+							Grid.Row="1"
+							Grid.Column="0"
+							Margin="20">
+							<TextBlock Text="Hours" />
+							<NumericUpDown
+								MinWidth="110"
+								FormatString="0"
+								Maximum="99"
+								Value="{Binding CircadianCycleHours}" />
+						</StackPanel>
+						<StackPanel
+							Grid.Row="1"
+							Grid.Column="1"
+							Margin="20">
+							<TextBlock Text="Minutes" />
+							<NumericUpDown
+								MinWidth="110"
+								FormatString="0"
+								Maximum="60"
+								Minimum="0"
+								Value="{Binding CircadianCycleMinutes}" />
+						</StackPanel>
+						<StackPanel
+							Grid.Row="1"
+							Grid.Column="2"
+							Margin="20">
+							<TextBlock Text="Seconds" />
+							<NumericUpDown
+								MinWidth="110"
+								FormatString="0"
+								Maximum="60"
+								Minimum="0"
+								Value="{Binding CircadianCycleSeconds}" />
+						</StackPanel>
+					</StackPanel>
+				</Border>
+			</StackPanel>
+			<StackPanel Margin="20">
+				<TextBlock Text="Wake-up time (as anchor point):" />
+				<StackPanel Margin="20" Orientation="Horizontal">
+					<StackPanel>
+						<TextBlock Text="Date" />
+						<CalendarDatePicker SelectedDate="{Binding WakeUpDate}" />
+					</StackPanel>
+					<StackPanel Margin="20,0">
+						<TextBlock Text="Time" />
+						<TimePicker SelectedTime="{Binding WakeUpTime}" />
+					</StackPanel>
+				</StackPanel>
+			</StackPanel>
+			<StackPanel Margin="20">
+				<TextBlock Text="Calendar:" />
+				<StackPanel Margin="20" Orientation="Horizontal">
+					<Calendar
+						x:Name="calendar"
+						Grid.Row="2"
+						Grid.Column="0"
+						VerticalAlignment="Top"
+						SelectionMode="SingleDate" />
+				</StackPanel>
+			</StackPanel>
+			<StackPanel Margin="20">
+				<StackPanel Orientation="Horizontal">
+					<TextBlock Margin="0,4,0,0" Text="Activity chart, from:" />
+					<DatePicker Margin="10,0,0,5" SelectedDate="{Binding ActivityChartStartingDate}" />
+				</StackPanel>
+				<ItemsControl HorizontalAlignment="Left" ItemsSource="{Binding ActivityChartData}">
+					<ItemsControl.Styles>
+						<Style Selector="TextBlock">
+							<Setter Property="FontSize" Value="9" />
+							<Setter Property="HorizontalAlignment" Value="Center" />
+							<Setter Property="VerticalAlignment" Value="Center" />
+							<Setter Property="FontFamily" Value="Lucida Console" />
+						</Style>
+						<Style Selector="Border" />
+					</ItemsControl.Styles>
+					<ItemsControl.DataTemplates>
+						<DataTemplate DataType="{x:Type vm:MainViewModel+ChartCornerCell}" />
+						<DataTemplate DataType="{x:Type vm:MainViewModel+ChartColumnHeaderCell}">
+							<StackPanel Height="12">
+								<TextBlock
+									Margin="0,-1,0,-2"
+									LetterSpacing="-0.5"
+									Text="{Binding Date.Day, StringFormat=0}" />
+								<TextBlock
+									Margin="-1,0,-1,0"
+									FontSize="8"
+									Foreground="{Binding Date.DayOfWeek, Converter={StaticResource DayOfWeekToColorConverter}}"
+									LetterSpacing="-1"
+									Text="{Binding DayOfWeek}" />
+							</StackPanel>
+						</DataTemplate>
+						<DataTemplate DataType="{x:Type vm:MainViewModel+ChartRowHeaderCell}">
+							<TextBlock FontWeight="Bold" Text="{Binding Hour, StringFormat=00}" />
+						</DataTemplate>
+						<DataTemplate DataType="{x:Type vm:MainViewModel+ChartCell}">
+							<Border
+								Width="10"
+								Height="10"
+								Background="{Binding IsActive, Converter={StaticResource TimeChartConverter}}" />
+						</DataTemplate>
+					</ItemsControl.DataTemplates>
+					<ItemsControl.ItemsPanel>
+						<ItemsPanelTemplate>
+							<UniformGrid Columns="61" Rows="25" />
+						</ItemsPanelTemplate>
+					</ItemsControl.ItemsPanel>
+					<ItemsControl.ItemTemplate>
+						<DataTemplate>
+							<ContentControl Content="{Binding}" />
+						</DataTemplate>
+					</ItemsControl.ItemTemplate>
+				</ItemsControl>
+			</StackPanel>
+		</StackPanel>
+	</ScrollViewer>
 </UserControl>
