@@ -19,6 +19,8 @@
 	</UserControl.Styles>
 	<ScrollViewer>
 		<StackPanel Margin="20">
+			<TextBlock Text="Args" />
+			<ItemsControl ItemsSource="{Binding Args}" />
 			<StackPanel Margin="20">
 				<TextBlock Text="Circadian cycle:" />
 				<Border

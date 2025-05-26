@@ -517,13 +517,13 @@
       ]
     },
     {
-      "Route": "_framework/Avalonia.Browser.asx0dj4uyv.wasm",
-      "AssetFile": "_framework/Avalonia.Browser.asx0dj4uyv.wasm.br",
+      "Route": "_framework/Avalonia.Browser.d904ic6iqn.wasm",
+      "AssetFile": "_framework/Avalonia.Browser.d904ic6iqn.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000027500481"
+          "Quality": "0.000027458195"
         }
       ],
       "ResponseHeaders": [
@@ -541,7 +541,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "36362"
+          "Value": "36418"
         },
         {
           "Name": "Content-Type",
@@ -549,15 +549,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"InbMMQ7YiCaWyfOJLynXWzsZyKDFrq/0xJVi7etxGVk=\""
+          "Value": "\"Dj4DJlyxMVc1YwS7kRuijAYHaLpcHGDJPsF++v7wRVo=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CsR9NXWrB8tbpbBxTuB+NdPaHR6ACtABPX3auy2Xa/M=\""
+          "Value": "W/\"UbwQyRf8R5Bss19bN6BZ1d6XyXnfEdGfPJK9wR6Zbg0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 15:36:25 GMT"
+          "Value": "Mon, 26 May 2025 08:54:52 GMT"
         },
         {
           "Name": "Vary",
@@ -567,11 +567,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "asx0dj4uyv"
+          "Value": "d904ic6iqn"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CsR9NXWrB8tbpbBxTuB+NdPaHR6ACtABPX3auy2Xa/M="
+          "Value": "sha256-UbwQyRf8R5Bss19bN6BZ1d6XyXnfEdGfPJK9wR6Zbg0="
         },
         {
           "Name": "label",
@@ -580,13 +580,13 @@
       ]
     },
     {
-      "Route": "_framework/Avalonia.Browser.asx0dj4uyv.wasm",
-      "AssetFile": "_framework/Avalonia.Browser.asx0dj4uyv.wasm.gz",
+      "Route": "_framework/Avalonia.Browser.d904ic6iqn.wasm",
+      "AssetFile": "_framework/Avalonia.Browser.d904ic6iqn.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000022707662"
+          "Quality": "0.000022708693"
         }
       ],
       "ResponseHeaders": [
@@ -604,7 +604,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "44037"
+          "Value": "44035"
         },
         {
           "Name": "Content-Type",
@@ -612,15 +612,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ohGHFcCgLuNap4Xi92bNNjqimUhhjAMxvMuYdhI8oaU=\""
+          "Value": "\"Pc4vW6RcH8aVN1t21qBcBxcs7/qSR315/uuT1e6W45E=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CsR9NXWrB8tbpbBxTuB+NdPaHR6ACtABPX3auy2Xa/M=\""
+          "Value": "W/\"UbwQyRf8R5Bss19bN6BZ1d6XyXnfEdGfPJK9wR6Zbg0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 15:36:25 GMT"
+          "Value": "Mon, 26 May 2025 08:54:52 GMT"
         },
         {
           "Name": "Vary",
@@ -630,11 +630,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "asx0dj4uyv"
+          "Value": "d904ic6iqn"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CsR9NXWrB8tbpbBxTuB+NdPaHR6ACtABPX3auy2Xa/M="
+          "Value": "sha256-UbwQyRf8R5Bss19bN6BZ1d6XyXnfEdGfPJK9wR6Zbg0="
         },
         {
           "Name": "label",
@@ -643,8 +643,8 @@
       ]
     },
     {
-      "Route": "_framework/Avalonia.Browser.asx0dj4uyv.wasm",
-      "AssetFile": "_framework/Avalonia.Browser.asx0dj4uyv.wasm",
+      "Route": "_framework/Avalonia.Browser.d904ic6iqn.wasm",
+      "AssetFile": "_framework/Avalonia.Browser.d904ic6iqn.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -665,21 +665,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CsR9NXWrB8tbpbBxTuB+NdPaHR6ACtABPX3auy2Xa/M=\""
+          "Value": "\"UbwQyRf8R5Bss19bN6BZ1d6XyXnfEdGfPJK9wR6Zbg0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 15:36:25 GMT"
+          "Value": "Mon, 26 May 2025 08:54:52 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "asx0dj4uyv"
+          "Value": "d904ic6iqn"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CsR9NXWrB8tbpbBxTuB+NdPaHR6ACtABPX3auy2Xa/M="
+          "Value": "sha256-UbwQyRf8R5Bss19bN6BZ1d6XyXnfEdGfPJK9wR6Zbg0="
         },
         {
           "Name": "label",
@@ -688,8 +688,8 @@
       ]
     },
     {
-      "Route": "_framework/Avalonia.Browser.asx0dj4uyv.wasm.br",
-      "AssetFile": "_framework/Avalonia.Browser.asx0dj4uyv.wasm.br",
+      "Route": "_framework/Avalonia.Browser.d904ic6iqn.wasm.br",
+      "AssetFile": "_framework/Avalonia.Browser.d904ic6iqn.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -706,7 +706,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "36362"
+          "Value": "36418"
         },
         {
           "Name": "Content-Type",
@@ -714,11 +714,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"InbMMQ7YiCaWyfOJLynXWzsZyKDFrq/0xJVi7etxGVk=\""
+          "Value": "\"Dj4DJlyxMVc1YwS7kRuijAYHaLpcHGDJPsF++v7wRVo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 15:36:25 GMT"
+          "Value": "Mon, 26 May 2025 08:54:52 GMT"
         },
         {
           "Name": "Vary",
@@ -728,11 +728,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "asx0dj4uyv"
+          "Value": "d904ic6iqn"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-InbMMQ7YiCaWyfOJLynXWzsZyKDFrq/0xJVi7etxGVk="
+          "Value": "sha256-Dj4DJlyxMVc1YwS7kRuijAYHaLpcHGDJPsF++v7wRVo="
         },
         {
           "Name": "label",
@@ -741,8 +741,8 @@
       ]
     },
     {
-      "Route": "_framework/Avalonia.Browser.asx0dj4uyv.wasm.gz",
-      "AssetFile": "_framework/Avalonia.Browser.asx0dj4uyv.wasm.gz",
+      "Route": "_framework/Avalonia.Browser.d904ic6iqn.wasm.gz",
+      "AssetFile": "_framework/Avalonia.Browser.d904ic6iqn.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -759,7 +759,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "44037"
+          "Value": "44035"
         },
         {
           "Name": "Content-Type",
@@ -767,11 +767,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ohGHFcCgLuNap4Xi92bNNjqimUhhjAMxvMuYdhI8oaU=\""
+          "Value": "\"Pc4vW6RcH8aVN1t21qBcBxcs7/qSR315/uuT1e6W45E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 15:36:25 GMT"
+          "Value": "Mon, 26 May 2025 08:54:52 GMT"
         },
         {
           "Name": "Vary",
@@ -781,11 +781,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "asx0dj4uyv"
+          "Value": "d904ic6iqn"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ohGHFcCgLuNap4Xi92bNNjqimUhhjAMxvMuYdhI8oaU="
+          "Value": "sha256-Pc4vW6RcH8aVN1t21qBcBxcs7/qSR315/uuT1e6W45E="
         },
         {
           "Name": "label",
@@ -795,12 +795,12 @@
     },
     {
       "Route": "_framework/Avalonia.Browser.wasm",
-      "AssetFile": "_framework/Avalonia.Browser.asx0dj4uyv.wasm.br",
+      "AssetFile": "_framework/Avalonia.Browser.d904ic6iqn.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000027500481"
+          "Quality": "0.000027458195"
         }
       ],
       "ResponseHeaders": [
@@ -818,7 +818,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "36362"
+          "Value": "36418"
         },
         {
           "Name": "Content-Type",
@@ -826,15 +826,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"InbMMQ7YiCaWyfOJLynXWzsZyKDFrq/0xJVi7etxGVk=\""
+          "Value": "\"Dj4DJlyxMVc1YwS7kRuijAYHaLpcHGDJPsF++v7wRVo=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CsR9NXWrB8tbpbBxTuB+NdPaHR6ACtABPX3auy2Xa/M=\""
+          "Value": "W/\"UbwQyRf8R5Bss19bN6BZ1d6XyXnfEdGfPJK9wR6Zbg0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 15:36:25 GMT"
+          "Value": "Mon, 26 May 2025 08:54:52 GMT"
         },
         {
           "Name": "Vary",
@@ -844,18 +844,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CsR9NXWrB8tbpbBxTuB+NdPaHR6ACtABPX3auy2Xa/M="
+          "Value": "sha256-UbwQyRf8R5Bss19bN6BZ1d6XyXnfEdGfPJK9wR6Zbg0="
         }
       ]
     },
     {
       "Route": "_framework/Avalonia.Browser.wasm",
-      "AssetFile": "_framework/Avalonia.Browser.asx0dj4uyv.wasm.gz",
+      "AssetFile": "_framework/Avalonia.Browser.d904ic6iqn.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000022707662"
+          "Quality": "0.000022708693"
         }
       ],
       "ResponseHeaders": [
@@ -873,7 +873,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "44037"
+          "Value": "44035"
         },
         {
           "Name": "Content-Type",
@@ -881,15 +881,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ohGHFcCgLuNap4Xi92bNNjqimUhhjAMxvMuYdhI8oaU=\""
+          "Value": "\"Pc4vW6RcH8aVN1t21qBcBxcs7/qSR315/uuT1e6W45E=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CsR9NXWrB8tbpbBxTuB+NdPaHR6ACtABPX3auy2Xa/M=\""
+          "Value": "W/\"UbwQyRf8R5Bss19bN6BZ1d6XyXnfEdGfPJK9wR6Zbg0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 15:36:25 GMT"
+          "Value": "Mon, 26 May 2025 08:54:52 GMT"
         },
         {
           "Name": "Vary",
@@ -899,13 +899,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CsR9NXWrB8tbpbBxTuB+NdPaHR6ACtABPX3auy2Xa/M="
+          "Value": "sha256-UbwQyRf8R5Bss19bN6BZ1d6XyXnfEdGfPJK9wR6Zbg0="
         }
       ]
     },
     {
       "Route": "_framework/Avalonia.Browser.wasm",
-      "AssetFile": "_framework/Avalonia.Browser.asx0dj4uyv.wasm",
+      "AssetFile": "_framework/Avalonia.Browser.d904ic6iqn.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -926,23 +926,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CsR9NXWrB8tbpbBxTuB+NdPaHR6ACtABPX3auy2Xa/M=\""
+          "Value": "\"UbwQyRf8R5Bss19bN6BZ1d6XyXnfEdGfPJK9wR6Zbg0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 15:36:25 GMT"
+          "Value": "Mon, 26 May 2025 08:54:52 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CsR9NXWrB8tbpbBxTuB+NdPaHR6ACtABPX3auy2Xa/M="
+          "Value": "sha256-UbwQyRf8R5Bss19bN6BZ1d6XyXnfEdGfPJK9wR6Zbg0="
         }
       ]
     },
     {
       "Route": "_framework/Avalonia.Browser.wasm.br",
-      "AssetFile": "_framework/Avalonia.Browser.asx0dj4uyv.wasm.br",
+      "AssetFile": "_framework/Avalonia.Browser.d904ic6iqn.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -959,7 +959,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "36362"
+          "Value": "36418"
         },
         {
           "Name": "Content-Type",
@@ -967,11 +967,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"InbMMQ7YiCaWyfOJLynXWzsZyKDFrq/0xJVi7etxGVk=\""
+          "Value": "\"Dj4DJlyxMVc1YwS7kRuijAYHaLpcHGDJPsF++v7wRVo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 15:36:25 GMT"
+          "Value": "Mon, 26 May 2025 08:54:52 GMT"
         },
         {
           "Name": "Vary",
@@ -981,13 +981,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-InbMMQ7YiCaWyfOJLynXWzsZyKDFrq/0xJVi7etxGVk="
+          "Value": "sha256-Dj4DJlyxMVc1YwS7kRuijAYHaLpcHGDJPsF++v7wRVo="
         }
       ]
     },
     {
       "Route": "_framework/Avalonia.Browser.wasm.gz",
-      "AssetFile": "_framework/Avalonia.Browser.asx0dj4uyv.wasm.gz",
+      "AssetFile": "_framework/Avalonia.Browser.d904ic6iqn.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1004,7 +1004,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "44037"
+          "Value": "44035"
         },
         {
           "Name": "Content-Type",
@@ -1012,11 +1012,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ohGHFcCgLuNap4Xi92bNNjqimUhhjAMxvMuYdhI8oaU=\""
+          "Value": "\"Pc4vW6RcH8aVN1t21qBcBxcs7/qSR315/uuT1e6W45E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 15:36:25 GMT"
+          "Value": "Mon, 26 May 2025 08:54:52 GMT"
         },
         {
           "Name": "Vary",
@@ -1026,18 +1026,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ohGHFcCgLuNap4Xi92bNNjqimUhhjAMxvMuYdhI8oaU="
+          "Value": "sha256-Pc4vW6RcH8aVN1t21qBcBxcs7/qSR315/uuT1e6W45E="
         }
       ]
     },
     {
-      "Route": "_framework/Avalonia.Controls.lx0h6kduyu.wasm",
-      "AssetFile": "_framework/Avalonia.Controls.lx0h6kduyu.wasm.br",
+      "Route": "_framework/Avalonia.Controls.9x2gsss638.wasm",
+      "AssetFile": "_framework/Avalonia.Controls.9x2gsss638.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000004403579"
+          "Quality": "0.000004400111"
         }
       ],
       "ResponseHeaders": [
@@ -1055,7 +1055,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "227087"
+          "Value": "227266"
         },
         {
           "Name": "Content-Type",
@@ -1063,15 +1063,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"y1e+lbqXNzFYZzfAG0T+yq9ovv1InM9BNzYdU47b0Yg=\""
+          "Value": "\"5VHG/UoUeAqRUeAC5NVi5P6AGvmmRScKnL1f2fPeEC8=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"B/ubPNjP0dS1OH3AoFKFpXYNXlrNTWkAwCuuoduc2WM=\""
+          "Value": "W/\"M8EuQ9jZOsmwRRqt/sckDNqArQ4ZXHwgpjrvEdIdLso=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:54:52 GMT"
         },
         {
           "Name": "Vary",
@@ -1081,11 +1081,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lx0h6kduyu"
+          "Value": "9x2gsss638"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-B/ubPNjP0dS1OH3AoFKFpXYNXlrNTWkAwCuuoduc2WM="
+          "Value": "sha256-M8EuQ9jZOsmwRRqt/sckDNqArQ4ZXHwgpjrvEdIdLso="
         },
         {
           "Name": "label",
@@ -1094,13 +1094,13 @@
       ]
     },
     {
-      "Route": "_framework/Avalonia.Controls.lx0h6kduyu.wasm",
-      "AssetFile": "_framework/Avalonia.Controls.lx0h6kduyu.wasm.gz",
+      "Route": "_framework/Avalonia.Controls.9x2gsss638.wasm",
+      "AssetFile": "_framework/Avalonia.Controls.9x2gsss638.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000003618037"
+          "Quality": "0.000003621430"
         }
       ],
       "ResponseHeaders": [
@@ -1118,7 +1118,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "276392"
+          "Value": "276133"
         },
         {
           "Name": "Content-Type",
@@ -1126,15 +1126,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V0r4vElxgA504iSmEZuleodFdxRdyzp4HXr5ql8fRwY=\""
+          "Value": "\"IoQDB1LH3QHyU7vPRX6TdstKFn/RWIvxIIJTwqJG65M=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"B/ubPNjP0dS1OH3AoFKFpXYNXlrNTWkAwCuuoduc2WM=\""
+          "Value": "W/\"M8EuQ9jZOsmwRRqt/sckDNqArQ4ZXHwgpjrvEdIdLso=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:54:52 GMT"
         },
         {
           "Name": "Vary",
@@ -1144,11 +1144,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lx0h6kduyu"
+          "Value": "9x2gsss638"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-B/ubPNjP0dS1OH3AoFKFpXYNXlrNTWkAwCuuoduc2WM="
+          "Value": "sha256-M8EuQ9jZOsmwRRqt/sckDNqArQ4ZXHwgpjrvEdIdLso="
         },
         {
           "Name": "label",
@@ -1157,8 +1157,8 @@
       ]
     },
     {
-      "Route": "_framework/Avalonia.Controls.lx0h6kduyu.wasm",
-      "AssetFile": "_framework/Avalonia.Controls.lx0h6kduyu.wasm",
+      "Route": "_framework/Avalonia.Controls.9x2gsss638.wasm",
+      "AssetFile": "_framework/Avalonia.Controls.9x2gsss638.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1171,7 +1171,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "701717"
+          "Value": "701205"
         },
         {
           "Name": "Content-Type",
@@ -1179,21 +1179,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"B/ubPNjP0dS1OH3AoFKFpXYNXlrNTWkAwCuuoduc2WM=\""
+          "Value": "\"M8EuQ9jZOsmwRRqt/sckDNqArQ4ZXHwgpjrvEdIdLso=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:54:52 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lx0h6kduyu"
+          "Value": "9x2gsss638"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-B/ubPNjP0dS1OH3AoFKFpXYNXlrNTWkAwCuuoduc2WM="
+          "Value": "sha256-M8EuQ9jZOsmwRRqt/sckDNqArQ4ZXHwgpjrvEdIdLso="
         },
         {
           "Name": "label",
@@ -1202,8 +1202,8 @@
       ]
     },
     {
-      "Route": "_framework/Avalonia.Controls.lx0h6kduyu.wasm.br",
-      "AssetFile": "_framework/Avalonia.Controls.lx0h6kduyu.wasm.br",
+      "Route": "_framework/Avalonia.Controls.9x2gsss638.wasm.br",
+      "AssetFile": "_framework/Avalonia.Controls.9x2gsss638.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1220,7 +1220,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "227087"
+          "Value": "227266"
         },
         {
           "Name": "Content-Type",
@@ -1228,11 +1228,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"y1e+lbqXNzFYZzfAG0T+yq9ovv1InM9BNzYdU47b0Yg=\""
+          "Value": "\"5VHG/UoUeAqRUeAC5NVi5P6AGvmmRScKnL1f2fPeEC8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:54:52 GMT"
         },
         {
           "Name": "Vary",
@@ -1242,11 +1242,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lx0h6kduyu"
+          "Value": "9x2gsss638"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-y1e+lbqXNzFYZzfAG0T+yq9ovv1InM9BNzYdU47b0Yg="
+          "Value": "sha256-5VHG/UoUeAqRUeAC5NVi5P6AGvmmRScKnL1f2fPeEC8="
         },
         {
           "Name": "label",
@@ -1255,8 +1255,8 @@
       ]
     },
     {
-      "Route": "_framework/Avalonia.Controls.lx0h6kduyu.wasm.gz",
-      "AssetFile": "_framework/Avalonia.Controls.lx0h6kduyu.wasm.gz",
+      "Route": "_framework/Avalonia.Controls.9x2gsss638.wasm.gz",
+      "AssetFile": "_framework/Avalonia.Controls.9x2gsss638.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1273,7 +1273,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "276392"
+          "Value": "276133"
         },
         {
           "Name": "Content-Type",
@@ -1281,11 +1281,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V0r4vElxgA504iSmEZuleodFdxRdyzp4HXr5ql8fRwY=\""
+          "Value": "\"IoQDB1LH3QHyU7vPRX6TdstKFn/RWIvxIIJTwqJG65M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:54:52 GMT"
         },
         {
           "Name": "Vary",
@@ -1295,11 +1295,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lx0h6kduyu"
+          "Value": "9x2gsss638"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-V0r4vElxgA504iSmEZuleodFdxRdyzp4HXr5ql8fRwY="
+          "Value": "sha256-IoQDB1LH3QHyU7vPRX6TdstKFn/RWIvxIIJTwqJG65M="
         },
         {
           "Name": "label",
@@ -1309,12 +1309,12 @@
     },
     {
       "Route": "_framework/Avalonia.Controls.wasm",
-      "AssetFile": "_framework/Avalonia.Controls.lx0h6kduyu.wasm.br",
+      "AssetFile": "_framework/Avalonia.Controls.9x2gsss638.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000004403579"
+          "Quality": "0.000004400111"
         }
       ],
       "ResponseHeaders": [
@@ -1332,7 +1332,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "227087"
+          "Value": "227266"
         },
         {
           "Name": "Content-Type",
@@ -1340,15 +1340,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"y1e+lbqXNzFYZzfAG0T+yq9ovv1InM9BNzYdU47b0Yg=\""
+          "Value": "\"5VHG/UoUeAqRUeAC5NVi5P6AGvmmRScKnL1f2fPeEC8=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"B/ubPNjP0dS1OH3AoFKFpXYNXlrNTWkAwCuuoduc2WM=\""
+          "Value": "W/\"M8EuQ9jZOsmwRRqt/sckDNqArQ4ZXHwgpjrvEdIdLso=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:54:52 GMT"
         },
         {
           "Name": "Vary",
@@ -1358,18 +1358,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-B/ubPNjP0dS1OH3AoFKFpXYNXlrNTWkAwCuuoduc2WM="
+          "Value": "sha256-M8EuQ9jZOsmwRRqt/sckDNqArQ4ZXHwgpjrvEdIdLso="
         }
       ]
     },
     {
       "Route": "_framework/Avalonia.Controls.wasm",
-      "AssetFile": "_framework/Avalonia.Controls.lx0h6kduyu.wasm.gz",
+      "AssetFile": "_framework/Avalonia.Controls.9x2gsss638.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000003618037"
+          "Quality": "0.000003621430"
         }
       ],
       "ResponseHeaders": [
@@ -1387,7 +1387,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "276392"
+          "Value": "276133"
         },
         {
           "Name": "Content-Type",
@@ -1395,15 +1395,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V0r4vElxgA504iSmEZuleodFdxRdyzp4HXr5ql8fRwY=\""
+          "Value": "\"IoQDB1LH3QHyU7vPRX6TdstKFn/RWIvxIIJTwqJG65M=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"B/ubPNjP0dS1OH3AoFKFpXYNXlrNTWkAwCuuoduc2WM=\""
+          "Value": "W/\"M8EuQ9jZOsmwRRqt/sckDNqArQ4ZXHwgpjrvEdIdLso=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:54:52 GMT"
         },
         {
           "Name": "Vary",
@@ -1413,13 +1413,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-B/ubPNjP0dS1OH3AoFKFpXYNXlrNTWkAwCuuoduc2WM="
+          "Value": "sha256-M8EuQ9jZOsmwRRqt/sckDNqArQ4ZXHwgpjrvEdIdLso="
         }
       ]
     },
     {
       "Route": "_framework/Avalonia.Controls.wasm",
-      "AssetFile": "_framework/Avalonia.Controls.lx0h6kduyu.wasm",
+      "AssetFile": "_framework/Avalonia.Controls.9x2gsss638.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1432,7 +1432,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "701717"
+          "Value": "701205"
         },
         {
           "Name": "Content-Type",
@@ -1440,23 +1440,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"B/ubPNjP0dS1OH3AoFKFpXYNXlrNTWkAwCuuoduc2WM=\""
+          "Value": "\"M8EuQ9jZOsmwRRqt/sckDNqArQ4ZXHwgpjrvEdIdLso=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:54:52 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-B/ubPNjP0dS1OH3AoFKFpXYNXlrNTWkAwCuuoduc2WM="
+          "Value": "sha256-M8EuQ9jZOsmwRRqt/sckDNqArQ4ZXHwgpjrvEdIdLso="
         }
       ]
     },
     {
       "Route": "_framework/Avalonia.Controls.wasm.br",
-      "AssetFile": "_framework/Avalonia.Controls.lx0h6kduyu.wasm.br",
+      "AssetFile": "_framework/Avalonia.Controls.9x2gsss638.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1473,7 +1473,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "227087"
+          "Value": "227266"
         },
         {
           "Name": "Content-Type",
@@ -1481,11 +1481,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"y1e+lbqXNzFYZzfAG0T+yq9ovv1InM9BNzYdU47b0Yg=\""
+          "Value": "\"5VHG/UoUeAqRUeAC5NVi5P6AGvmmRScKnL1f2fPeEC8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:54:52 GMT"
         },
         {
           "Name": "Vary",
@@ -1495,13 +1495,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-y1e+lbqXNzFYZzfAG0T+yq9ovv1InM9BNzYdU47b0Yg="
+          "Value": "sha256-5VHG/UoUeAqRUeAC5NVi5P6AGvmmRScKnL1f2fPeEC8="
         }
       ]
     },
     {
       "Route": "_framework/Avalonia.Controls.wasm.gz",
-      "AssetFile": "_framework/Avalonia.Controls.lx0h6kduyu.wasm.gz",
+      "AssetFile": "_framework/Avalonia.Controls.9x2gsss638.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1518,7 +1518,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "276392"
+          "Value": "276133"
         },
         {
           "Name": "Content-Type",
@@ -1526,11 +1526,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V0r4vElxgA504iSmEZuleodFdxRdyzp4HXr5ql8fRwY=\""
+          "Value": "\"IoQDB1LH3QHyU7vPRX6TdstKFn/RWIvxIIJTwqJG65M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:54:52 GMT"
         },
         {
           "Name": "Vary",
@@ -1540,7 +1540,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-V0r4vElxgA504iSmEZuleodFdxRdyzp4HXr5ql8fRwY="
+          "Value": "sha256-IoQDB1LH3QHyU7vPRX6TdstKFn/RWIvxIIJTwqJG65M="
         }
       ]
     },
@@ -7199,13 +7199,13 @@
       ]
     },
     {
-      "Route": "_framework/N24Calendar.9u7y85znvh.wasm",
-      "AssetFile": "_framework/N24Calendar.9u7y85znvh.wasm.br",
+      "Route": "_framework/N24Calendar.Browser.bcgld04cbq.wasm",
+      "AssetFile": "_framework/N24Calendar.Browser.bcgld04cbq.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000022905834"
+          "Quality": "0.000460405157"
         }
       ],
       "ResponseHeaders": [
@@ -7223,7 +7223,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "43656"
+          "Value": "2171"
         },
         {
           "Name": "Content-Type",
@@ -7231,15 +7231,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"msFIDm9cjywntfOsq5T7whu+oMDc7Q06IqsMXd3jSo8=\""
+          "Value": "\"thMUr8Pytz6qHmgFxSSMZPdzDciEQZp+U0HwJOAsVRY=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MYik8+I6elUhzbFSvA2zv9gWODTKvQBa2wFGkTjBGuI=\""
+          "Value": "W/\"BU2558X7/NiRHJCRZLgcP965C9J/etuy+N5YGXeUw7k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
         },
         {
           "Name": "Vary",
@@ -7249,26 +7249,26 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9u7y85znvh"
+          "Value": "bcgld04cbq"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MYik8+I6elUhzbFSvA2zv9gWODTKvQBa2wFGkTjBGuI="
+          "Value": "sha256-BU2558X7/NiRHJCRZLgcP965C9J/etuy+N5YGXeUw7k="
         },
         {
           "Name": "label",
-          "Value": "_framework/N24Calendar.wasm"
+          "Value": "_framework/N24Calendar.Browser.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/N24Calendar.9u7y85znvh.wasm",
-      "AssetFile": "_framework/N24Calendar.9u7y85znvh.wasm.gz",
+      "Route": "_framework/N24Calendar.Browser.bcgld04cbq.wasm",
+      "AssetFile": "_framework/N24Calendar.Browser.bcgld04cbq.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000019577900"
+          "Quality": "0.000400962310"
         }
       ],
       "ResponseHeaders": [
@@ -7286,7 +7286,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "51077"
+          "Value": "2493"
         },
         {
           "Name": "Content-Type",
@@ -7294,15 +7294,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5v6m4e7yBXTBU4e1VKTQuwzAhCBhMAoMa3gnJDzJIlI=\""
+          "Value": "\"wydQE3H7HnnYR/s0jg8Bn+WjwkILHq+RhM4pH5V7GHo=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MYik8+I6elUhzbFSvA2zv9gWODTKvQBa2wFGkTjBGuI=\""
+          "Value": "W/\"BU2558X7/NiRHJCRZLgcP965C9J/etuy+N5YGXeUw7k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
         },
         {
           "Name": "Vary",
@@ -7312,21 +7312,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9u7y85znvh"
+          "Value": "bcgld04cbq"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MYik8+I6elUhzbFSvA2zv9gWODTKvQBa2wFGkTjBGuI="
+          "Value": "sha256-BU2558X7/NiRHJCRZLgcP965C9J/etuy+N5YGXeUw7k="
         },
         {
           "Name": "label",
-          "Value": "_framework/N24Calendar.wasm"
+          "Value": "_framework/N24Calendar.Browser.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/N24Calendar.9u7y85znvh.wasm",
-      "AssetFile": "_framework/N24Calendar.9u7y85znvh.wasm",
+      "Route": "_framework/N24Calendar.Browser.bcgld04cbq.wasm",
+      "AssetFile": "_framework/N24Calendar.Browser.bcgld04cbq.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7339,7 +7339,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "215317"
+          "Value": "5909"
         },
         {
           "Name": "Content-Type",
@@ -7347,31 +7347,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MYik8+I6elUhzbFSvA2zv9gWODTKvQBa2wFGkTjBGuI=\""
+          "Value": "\"BU2558X7/NiRHJCRZLgcP965C9J/etuy+N5YGXeUw7k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9u7y85znvh"
+          "Value": "bcgld04cbq"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MYik8+I6elUhzbFSvA2zv9gWODTKvQBa2wFGkTjBGuI="
+          "Value": "sha256-BU2558X7/NiRHJCRZLgcP965C9J/etuy+N5YGXeUw7k="
         },
         {
           "Name": "label",
-          "Value": "_framework/N24Calendar.wasm"
+          "Value": "_framework/N24Calendar.Browser.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/N24Calendar.9u7y85znvh.wasm.br",
-      "AssetFile": "_framework/N24Calendar.9u7y85znvh.wasm.br",
+      "Route": "_framework/N24Calendar.Browser.bcgld04cbq.wasm.br",
+      "AssetFile": "_framework/N24Calendar.Browser.bcgld04cbq.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7388,7 +7388,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "43656"
+          "Value": "2171"
         },
         {
           "Name": "Content-Type",
@@ -7396,11 +7396,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"msFIDm9cjywntfOsq5T7whu+oMDc7Q06IqsMXd3jSo8=\""
+          "Value": "\"thMUr8Pytz6qHmgFxSSMZPdzDciEQZp+U0HwJOAsVRY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
         },
         {
           "Name": "Vary",
@@ -7410,288 +7410,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9u7y85znvh"
+          "Value": "bcgld04cbq"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-msFIDm9cjywntfOsq5T7whu+oMDc7Q06IqsMXd3jSo8="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/N24Calendar.wasm.br"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/N24Calendar.9u7y85znvh.wasm.gz",
-      "AssetFile": "_framework/N24Calendar.9u7y85znvh.wasm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "51077"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5v6m4e7yBXTBU4e1VKTQuwzAhCBhMAoMa3gnJDzJIlI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9u7y85znvh"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-5v6m4e7yBXTBU4e1VKTQuwzAhCBhMAoMa3gnJDzJIlI="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/N24Calendar.wasm.gz"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/N24Calendar.Browser.gitm85jlmn.wasm",
-      "AssetFile": "_framework/N24Calendar.Browser.gitm85jlmn.wasm.br",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "br",
-          "Quality": "0.000532197978"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1878"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"abaJSyZ2OOY3ZPwqzHn7Xbn6swit1FAiPHRRBZyCm/c=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"GBViU/NwQYvrMZaxEKwib9Y8FujZobdNHS9stFBlN2E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gitm85jlmn"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GBViU/NwQYvrMZaxEKwib9Y8FujZobdNHS9stFBlN2E="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/N24Calendar.Browser.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/N24Calendar.Browser.gitm85jlmn.wasm",
-      "AssetFile": "_framework/N24Calendar.Browser.gitm85jlmn.wasm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000454132607"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2201"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Z8ia6uNJEoHvlqmd3AUIzDsV0QecRtitMa8mjiPQgBY=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"GBViU/NwQYvrMZaxEKwib9Y8FujZobdNHS9stFBlN2E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gitm85jlmn"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GBViU/NwQYvrMZaxEKwib9Y8FujZobdNHS9stFBlN2E="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/N24Calendar.Browser.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/N24Calendar.Browser.gitm85jlmn.wasm",
-      "AssetFile": "_framework/N24Calendar.Browser.gitm85jlmn.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5397"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GBViU/NwQYvrMZaxEKwib9Y8FujZobdNHS9stFBlN2E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gitm85jlmn"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GBViU/NwQYvrMZaxEKwib9Y8FujZobdNHS9stFBlN2E="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/N24Calendar.Browser.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/N24Calendar.Browser.gitm85jlmn.wasm.br",
-      "AssetFile": "_framework/N24Calendar.Browser.gitm85jlmn.wasm.br",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1878"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"abaJSyZ2OOY3ZPwqzHn7Xbn6swit1FAiPHRRBZyCm/c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gitm85jlmn"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-abaJSyZ2OOY3ZPwqzHn7Xbn6swit1FAiPHRRBZyCm/c="
+          "Value": "sha256-thMUr8Pytz6qHmgFxSSMZPdzDciEQZp+U0HwJOAsVRY="
         },
         {
           "Name": "label",
@@ -7700,8 +7423,8 @@
       ]
     },
     {
-      "Route": "_framework/N24Calendar.Browser.gitm85jlmn.wasm.gz",
-      "AssetFile": "_framework/N24Calendar.Browser.gitm85jlmn.wasm.gz",
+      "Route": "_framework/N24Calendar.Browser.bcgld04cbq.wasm.gz",
+      "AssetFile": "_framework/N24Calendar.Browser.bcgld04cbq.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7718,7 +7441,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2201"
+          "Value": "2493"
         },
         {
           "Name": "Content-Type",
@@ -7726,11 +7449,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Z8ia6uNJEoHvlqmd3AUIzDsV0QecRtitMa8mjiPQgBY=\""
+          "Value": "\"wydQE3H7HnnYR/s0jg8Bn+WjwkILHq+RhM4pH5V7GHo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
         },
         {
           "Name": "Vary",
@@ -7740,11 +7463,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gitm85jlmn"
+          "Value": "bcgld04cbq"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Z8ia6uNJEoHvlqmd3AUIzDsV0QecRtitMa8mjiPQgBY="
+          "Value": "sha256-wydQE3H7HnnYR/s0jg8Bn+WjwkILHq+RhM4pH5V7GHo="
         },
         {
           "Name": "label",
@@ -7754,12 +7477,12 @@
     },
     {
       "Route": "_framework/N24Calendar.Browser.wasm",
-      "AssetFile": "_framework/N24Calendar.Browser.gitm85jlmn.wasm.br",
+      "AssetFile": "_framework/N24Calendar.Browser.bcgld04cbq.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000532197978"
+          "Quality": "0.000460405157"
         }
       ],
       "ResponseHeaders": [
@@ -7777,7 +7500,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1878"
+          "Value": "2171"
         },
         {
           "Name": "Content-Type",
@@ -7785,15 +7508,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"abaJSyZ2OOY3ZPwqzHn7Xbn6swit1FAiPHRRBZyCm/c=\""
+          "Value": "\"thMUr8Pytz6qHmgFxSSMZPdzDciEQZp+U0HwJOAsVRY=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GBViU/NwQYvrMZaxEKwib9Y8FujZobdNHS9stFBlN2E=\""
+          "Value": "W/\"BU2558X7/NiRHJCRZLgcP965C9J/etuy+N5YGXeUw7k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
         },
         {
           "Name": "Vary",
@@ -7803,18 +7526,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GBViU/NwQYvrMZaxEKwib9Y8FujZobdNHS9stFBlN2E="
+          "Value": "sha256-BU2558X7/NiRHJCRZLgcP965C9J/etuy+N5YGXeUw7k="
         }
       ]
     },
     {
       "Route": "_framework/N24Calendar.Browser.wasm",
-      "AssetFile": "_framework/N24Calendar.Browser.gitm85jlmn.wasm.gz",
+      "AssetFile": "_framework/N24Calendar.Browser.bcgld04cbq.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000454132607"
+          "Quality": "0.000400962310"
         }
       ],
       "ResponseHeaders": [
@@ -7832,7 +7555,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2201"
+          "Value": "2493"
         },
         {
           "Name": "Content-Type",
@@ -7840,15 +7563,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Z8ia6uNJEoHvlqmd3AUIzDsV0QecRtitMa8mjiPQgBY=\""
+          "Value": "\"wydQE3H7HnnYR/s0jg8Bn+WjwkILHq+RhM4pH5V7GHo=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GBViU/NwQYvrMZaxEKwib9Y8FujZobdNHS9stFBlN2E=\""
+          "Value": "W/\"BU2558X7/NiRHJCRZLgcP965C9J/etuy+N5YGXeUw7k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
         },
         {
           "Name": "Vary",
@@ -7858,13 +7581,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GBViU/NwQYvrMZaxEKwib9Y8FujZobdNHS9stFBlN2E="
+          "Value": "sha256-BU2558X7/NiRHJCRZLgcP965C9J/etuy+N5YGXeUw7k="
         }
       ]
     },
     {
       "Route": "_framework/N24Calendar.Browser.wasm",
-      "AssetFile": "_framework/N24Calendar.Browser.gitm85jlmn.wasm",
+      "AssetFile": "_framework/N24Calendar.Browser.bcgld04cbq.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7877,7 +7600,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5397"
+          "Value": "5909"
         },
         {
           "Name": "Content-Type",
@@ -7885,23 +7608,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GBViU/NwQYvrMZaxEKwib9Y8FujZobdNHS9stFBlN2E=\""
+          "Value": "\"BU2558X7/NiRHJCRZLgcP965C9J/etuy+N5YGXeUw7k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GBViU/NwQYvrMZaxEKwib9Y8FujZobdNHS9stFBlN2E="
+          "Value": "sha256-BU2558X7/NiRHJCRZLgcP965C9J/etuy+N5YGXeUw7k="
         }
       ]
     },
     {
       "Route": "_framework/N24Calendar.Browser.wasm.br",
-      "AssetFile": "_framework/N24Calendar.Browser.gitm85jlmn.wasm.br",
+      "AssetFile": "_framework/N24Calendar.Browser.bcgld04cbq.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7918,7 +7641,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1878"
+          "Value": "2171"
         },
         {
           "Name": "Content-Type",
@@ -7926,11 +7649,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"abaJSyZ2OOY3ZPwqzHn7Xbn6swit1FAiPHRRBZyCm/c=\""
+          "Value": "\"thMUr8Pytz6qHmgFxSSMZPdzDciEQZp+U0HwJOAsVRY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
         },
         {
           "Name": "Vary",
@@ -7940,13 +7663,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-abaJSyZ2OOY3ZPwqzHn7Xbn6swit1FAiPHRRBZyCm/c="
+          "Value": "sha256-thMUr8Pytz6qHmgFxSSMZPdzDciEQZp+U0HwJOAsVRY="
         }
       ]
     },
     {
       "Route": "_framework/N24Calendar.Browser.wasm.gz",
-      "AssetFile": "_framework/N24Calendar.Browser.gitm85jlmn.wasm.gz",
+      "AssetFile": "_framework/N24Calendar.Browser.bcgld04cbq.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7963,7 +7686,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2201"
+          "Value": "2493"
         },
         {
           "Name": "Content-Type",
@@ -7971,11 +7694,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Z8ia6uNJEoHvlqmd3AUIzDsV0QecRtitMa8mjiPQgBY=\""
+          "Value": "\"wydQE3H7HnnYR/s0jg8Bn+WjwkILHq+RhM4pH5V7GHo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
         },
         {
           "Name": "Vary",
@@ -7985,18 +7708,295 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Z8ia6uNJEoHvlqmd3AUIzDsV0QecRtitMa8mjiPQgBY="
+          "Value": "sha256-wydQE3H7HnnYR/s0jg8Bn+WjwkILHq+RhM4pH5V7GHo="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/N24Calendar.adu7ampo50.wasm",
+      "AssetFile": "_framework/N24Calendar.adu7ampo50.wasm.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000022826881"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43807"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PZzDWBZ4ZYumYBJnxn03CgZMz/7sqPynqc98zUuMozk=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gng8AU4qh86JGKXINC0Whecc8fOlcKIZd5kAi/+L5q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "adu7ampo50"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gng8AU4qh86JGKXINC0Whecc8fOlcKIZd5kAi/+L5q0="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/N24Calendar.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/N24Calendar.adu7ampo50.wasm",
+      "AssetFile": "_framework/N24Calendar.adu7ampo50.wasm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000019501160"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51278"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tTbOvXlGGNmITus3yfJu0nYCiFM1pOgU4491JTy2kXc=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gng8AU4qh86JGKXINC0Whecc8fOlcKIZd5kAi/+L5q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "adu7ampo50"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gng8AU4qh86JGKXINC0Whecc8fOlcKIZd5kAi/+L5q0="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/N24Calendar.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/N24Calendar.adu7ampo50.wasm",
+      "AssetFile": "_framework/N24Calendar.adu7ampo50.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215829"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gng8AU4qh86JGKXINC0Whecc8fOlcKIZd5kAi/+L5q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "adu7ampo50"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gng8AU4qh86JGKXINC0Whecc8fOlcKIZd5kAi/+L5q0="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/N24Calendar.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/N24Calendar.adu7ampo50.wasm.br",
+      "AssetFile": "_framework/N24Calendar.adu7ampo50.wasm.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43807"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PZzDWBZ4ZYumYBJnxn03CgZMz/7sqPynqc98zUuMozk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "adu7ampo50"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PZzDWBZ4ZYumYBJnxn03CgZMz/7sqPynqc98zUuMozk="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/N24Calendar.wasm.br"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/N24Calendar.adu7ampo50.wasm.gz",
+      "AssetFile": "_framework/N24Calendar.adu7ampo50.wasm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51278"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tTbOvXlGGNmITus3yfJu0nYCiFM1pOgU4491JTy2kXc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "adu7ampo50"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tTbOvXlGGNmITus3yfJu0nYCiFM1pOgU4491JTy2kXc="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/N24Calendar.wasm.gz"
         }
       ]
     },
     {
       "Route": "_framework/N24Calendar.wasm",
-      "AssetFile": "_framework/N24Calendar.9u7y85znvh.wasm.br",
+      "AssetFile": "_framework/N24Calendar.adu7ampo50.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000022905834"
+          "Quality": "0.000022826881"
         }
       ],
       "ResponseHeaders": [
@@ -8014,7 +8014,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "43656"
+          "Value": "43807"
         },
         {
           "Name": "Content-Type",
@@ -8022,15 +8022,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"msFIDm9cjywntfOsq5T7whu+oMDc7Q06IqsMXd3jSo8=\""
+          "Value": "\"PZzDWBZ4ZYumYBJnxn03CgZMz/7sqPynqc98zUuMozk=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MYik8+I6elUhzbFSvA2zv9gWODTKvQBa2wFGkTjBGuI=\""
+          "Value": "W/\"gng8AU4qh86JGKXINC0Whecc8fOlcKIZd5kAi/+L5q0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
         },
         {
           "Name": "Vary",
@@ -8040,18 +8040,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MYik8+I6elUhzbFSvA2zv9gWODTKvQBa2wFGkTjBGuI="
+          "Value": "sha256-gng8AU4qh86JGKXINC0Whecc8fOlcKIZd5kAi/+L5q0="
         }
       ]
     },
     {
       "Route": "_framework/N24Calendar.wasm",
-      "AssetFile": "_framework/N24Calendar.9u7y85znvh.wasm.gz",
+      "AssetFile": "_framework/N24Calendar.adu7ampo50.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000019577900"
+          "Quality": "0.000019501160"
         }
       ],
       "ResponseHeaders": [
@@ -8069,7 +8069,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "51077"
+          "Value": "51278"
         },
         {
           "Name": "Content-Type",
@@ -8077,15 +8077,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5v6m4e7yBXTBU4e1VKTQuwzAhCBhMAoMa3gnJDzJIlI=\""
+          "Value": "\"tTbOvXlGGNmITus3yfJu0nYCiFM1pOgU4491JTy2kXc=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MYik8+I6elUhzbFSvA2zv9gWODTKvQBa2wFGkTjBGuI=\""
+          "Value": "W/\"gng8AU4qh86JGKXINC0Whecc8fOlcKIZd5kAi/+L5q0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
         },
         {
           "Name": "Vary",
@@ -8095,13 +8095,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MYik8+I6elUhzbFSvA2zv9gWODTKvQBa2wFGkTjBGuI="
+          "Value": "sha256-gng8AU4qh86JGKXINC0Whecc8fOlcKIZd5kAi/+L5q0="
         }
       ]
     },
     {
       "Route": "_framework/N24Calendar.wasm",
-      "AssetFile": "_framework/N24Calendar.9u7y85znvh.wasm",
+      "AssetFile": "_framework/N24Calendar.adu7ampo50.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8114,7 +8114,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "215317"
+          "Value": "215829"
         },
         {
           "Name": "Content-Type",
@@ -8122,23 +8122,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MYik8+I6elUhzbFSvA2zv9gWODTKvQBa2wFGkTjBGuI=\""
+          "Value": "\"gng8AU4qh86JGKXINC0Whecc8fOlcKIZd5kAi/+L5q0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MYik8+I6elUhzbFSvA2zv9gWODTKvQBa2wFGkTjBGuI="
+          "Value": "sha256-gng8AU4qh86JGKXINC0Whecc8fOlcKIZd5kAi/+L5q0="
         }
       ]
     },
     {
       "Route": "_framework/N24Calendar.wasm.br",
-      "AssetFile": "_framework/N24Calendar.9u7y85znvh.wasm.br",
+      "AssetFile": "_framework/N24Calendar.adu7ampo50.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8155,7 +8155,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "43656"
+          "Value": "43807"
         },
         {
           "Name": "Content-Type",
@@ -8163,11 +8163,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"msFIDm9cjywntfOsq5T7whu+oMDc7Q06IqsMXd3jSo8=\""
+          "Value": "\"PZzDWBZ4ZYumYBJnxn03CgZMz/7sqPynqc98zUuMozk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
         },
         {
           "Name": "Vary",
@@ -8177,13 +8177,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-msFIDm9cjywntfOsq5T7whu+oMDc7Q06IqsMXd3jSo8="
+          "Value": "sha256-PZzDWBZ4ZYumYBJnxn03CgZMz/7sqPynqc98zUuMozk="
         }
       ]
     },
     {
       "Route": "_framework/N24Calendar.wasm.gz",
-      "AssetFile": "_framework/N24Calendar.9u7y85znvh.wasm.gz",
+      "AssetFile": "_framework/N24Calendar.adu7ampo50.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8200,7 +8200,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "51077"
+          "Value": "51278"
         },
         {
           "Name": "Content-Type",
@@ -8208,11 +8208,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5v6m4e7yBXTBU4e1VKTQuwzAhCBhMAoMa3gnJDzJIlI=\""
+          "Value": "\"tTbOvXlGGNmITus3yfJu0nYCiFM1pOgU4491JTy2kXc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:33 GMT"
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
         },
         {
           "Name": "Vary",
@@ -8222,7 +8222,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5v6m4e7yBXTBU4e1VKTQuwzAhCBhMAoMa3gnJDzJIlI="
+          "Value": "sha256-tTbOvXlGGNmITus3yfJu0nYCiFM1pOgU4491JTy2kXc="
         }
       ]
     },
@@ -17461,17 +17461,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fDxr5jAlJMJLcJPLPyff74O3idBWm9HOSlqJYKaHp58=\""
+          "Value": "\"KpWi7vCCMH/KXPvhfmtWVvpQAgpBdQNfdcqnCbREPeo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:34 GMT"
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fDxr5jAlJMJLcJPLPyff74O3idBWm9HOSlqJYKaHp58="
+          "Value": "sha256-KpWi7vCCMH/KXPvhfmtWVvpQAgpBdQNfdcqnCbREPeo="
         }
       ]
     },
@@ -17482,7 +17482,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000403388463"
+          "Quality": "0.000403225806"
         }
       ],
       "ResponseHeaders": [
@@ -17500,7 +17500,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2478"
+          "Value": "2479"
         },
         {
           "Name": "Content-Type",
@@ -17508,15 +17508,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vjNFI+uq9r26gUx1eL/PsVwyrpc9ePMBYO+D1lVoV7g=\""
+          "Value": "\"pfjC+WzaujtbykRzL9gRxxhm7rle/Keu00gN4ejOn34=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"fDxr5jAlJMJLcJPLPyff74O3idBWm9HOSlqJYKaHp58=\""
+          "Value": "W/\"KpWi7vCCMH/KXPvhfmtWVvpQAgpBdQNfdcqnCbREPeo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:34 GMT"
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
         },
         {
           "Name": "Vary",
@@ -17526,7 +17526,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fDxr5jAlJMJLcJPLPyff74O3idBWm9HOSlqJYKaHp58="
+          "Value": "sha256-KpWi7vCCMH/KXPvhfmtWVvpQAgpBdQNfdcqnCbREPeo="
         }
       ]
     },
@@ -17537,7 +17537,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000370782351"
+          "Quality": "0.000370507595"
         }
       ],
       "ResponseHeaders": [
@@ -17555,7 +17555,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2696"
+          "Value": "2698"
         },
         {
           "Name": "Content-Type",
@@ -17563,15 +17563,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jmGC7/w5nEEoYcj375AB888miMhQ8f7n7aDPYkDp63M=\""
+          "Value": "\"ofDzyMweVIJ/i/NWOFIP4T9Xb9rCszs9n0tpJwjUfyA=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"fDxr5jAlJMJLcJPLPyff74O3idBWm9HOSlqJYKaHp58=\""
+          "Value": "W/\"KpWi7vCCMH/KXPvhfmtWVvpQAgpBdQNfdcqnCbREPeo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:34 GMT"
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
         },
         {
           "Name": "Vary",
@@ -17581,7 +17581,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fDxr5jAlJMJLcJPLPyff74O3idBWm9HOSlqJYKaHp58="
+          "Value": "sha256-KpWi7vCCMH/KXPvhfmtWVvpQAgpBdQNfdcqnCbREPeo="
         }
       ]
     },
@@ -17604,7 +17604,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2478"
+          "Value": "2479"
         },
         {
           "Name": "Content-Type",
@@ -17612,11 +17612,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vjNFI+uq9r26gUx1eL/PsVwyrpc9ePMBYO+D1lVoV7g=\""
+          "Value": "\"pfjC+WzaujtbykRzL9gRxxhm7rle/Keu00gN4ejOn34=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:34 GMT"
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
         },
         {
           "Name": "Vary",
@@ -17626,7 +17626,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vjNFI+uq9r26gUx1eL/PsVwyrpc9ePMBYO+D1lVoV7g="
+          "Value": "sha256-pfjC+WzaujtbykRzL9gRxxhm7rle/Keu00gN4ejOn34="
         }
       ]
     },
@@ -17649,7 +17649,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2696"
+          "Value": "2698"
         },
         {
           "Name": "Content-Type",
@@ -17657,11 +17657,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jmGC7/w5nEEoYcj375AB888miMhQ8f7n7aDPYkDp63M=\""
+          "Value": "\"ofDzyMweVIJ/i/NWOFIP4T9Xb9rCszs9n0tpJwjUfyA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 22:10:34 GMT"
+          "Value": "Mon, 26 May 2025 08:58:39 GMT"
         },
         {
           "Name": "Vary",
@@ -17671,7 +17671,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jmGC7/w5nEEoYcj375AB888miMhQ8f7n7aDPYkDp63M="
+          "Value": "sha256-ofDzyMweVIJ/i/NWOFIP4T9Xb9rCszs9n0tpJwjUfyA="
         }
       ]
     },

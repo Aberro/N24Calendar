@@ -136,7 +136,11 @@ public partial class MainViewModel : ViewModelBase
 			}
 		}
 	}
-
+	public string[] Args { get; init; }
+	public MainViewModel(string[] args)
+	{
+		Args = args;
+	}
 	public bool GetActivity(DateTime time)
 	{
 		var cycle = TimeSpan.FromHours(_circadianCycleHours) +
